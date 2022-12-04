@@ -12,7 +12,7 @@ Objective: refactor an existing code.
 - Class and ID are fairly interchangeable, but you can only assign an ID to one element
 - ID's can be used to redirect links to corresponding places on a webpage! 
 
-## Table of Contents (Optional)
+## Table of Contents
 N/A
 
 ## Installation
