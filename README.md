@@ -1,4 +1,4 @@
-# <T.Cao-Horiseon-Refactoring>
+# T.Cao-Horiseon-Refactoring
 ## Description 
 This is my first assigned Challenge in bootcamp. 
 Objective: refactor an existing code.  
