@@ -1,4 +1,6 @@
-* {
+* 
+/* added border because I couldn't remove the black border around the navigation buttons */
+{
     box-sizing: border-box;
     border: transparent;
     padding: 0;
@@ -9,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* grouped the buttons into navigation bar */
 .navigation-bar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/* the background was showing up colored for the buttons, so I added background */
 .navigation-bar button {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,6 +38,7 @@ body {
     background: transparent;
 }
 
+/* consolidated the diplay & margin into one for buttons */
 .navigation-bar button ul li {
     display: inline-block;
     margin-left: 25px;
@@ -49,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* changed hero to background image to make it easier to find */
 .background-image {
     height: 800px;
     width: 100%;
@@ -68,6 +74,7 @@ p {
     margin-left: 25px;
 }
 
+/* consolidated all repetitive items */
 .content {
     width: 75%;
     display: inline-block;
