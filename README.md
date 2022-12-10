@@ -6,7 +6,7 @@ Objective: refactor an existing code.
 
 **What I've learned from this project**:
 - Refactoring makes code more concise and more legible
-- **Div soup** :) Google taught me what <div> is and alternative elements to use in place of div
+- **Div soup** :) Google taught me what div is and alternative elements to use in place of div
 - Live Server is my best friend when working with code
 - I can break everything with a single semicolon (or lack thereof)
 - There are tons of elements & they're all super useful (ex: body, header, nav, button, section, etc)
